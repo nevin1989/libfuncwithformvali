@@ -1,0 +1,43 @@
+.carousel-item {
+    height: 600px; 
+  }
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%; 
+    width: 100%; 
+  }
+.carousel-caption h5{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.carousel-caption p{
+    color: white;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn-dark{
+    background-color: #000000;
+    color: #fff;
+}
+.btn-dark:hover {
+    background-color: #064532;
+  }  
+  .background-image{
+    background-image: url(../Image/background.avif);
+  }
+  .img-fluid {
+    object-fit: cover;
+    height: 350px; 
+    width: 100%; 
+  }
+  .card-title{
+    text-align: center;
+    color: #000000;
+  }
+  .display-2{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
